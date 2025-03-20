@@ -18,5 +18,5 @@ This is the third part of my awesome markdown document
 
 ---
 
-![AI generated header image](https://camphouse.me/assets/img/HAI5014-Week-3-header.jpg)
+![AI generated header image](images/2019-09-27_11-35-33.png)
 
