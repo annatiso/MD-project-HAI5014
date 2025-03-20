@@ -20,3 +20,8 @@ This is the third part of my awesome markdown document
 
 ![AI generated header image](images/2019-09-27_11-35-33.png)
 
+For more information visit the [Sungkyunkwan University Website](https://www.skku.edu/)
+
+| Menu name | Price | Restaurants |
+| --- | --- | --- |
+| Ramen | 5000 krw | Bab |
