@@ -22,7 +22,7 @@ These qualities are usually achieved through **artificial intelligence**, in par
 ## Examples of good chatbots
 
 ### Chat GPT
-![Screenshot of Chat GPT](images/Screenshot_2025-03-26_at_20.30.33.png)
+![Screenshot of Chat GPT](images/ChatGPT.png)
 
 - Understands context and nuances of user input
 - Allows the user to personalize the chat by specifying the preferred tone and providing any information that Chat GPT should remember
