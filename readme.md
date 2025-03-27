@@ -38,6 +38,18 @@ These qualities are usually achieved through **artificial intelligence**, in par
 ## Examples of bad chatbots
 
 ### Scripted chatbots
-![Image of a scripted chatbot](https://www.proprofschat.com/blog/wp-content/uploads/2023/01/CP9.jpg)
+![Image of a scripted chatbot](https://www.tidio.com/wp-content/uploads/5-rule-based-chatbot-1.png)
 - Only allow the user to ask specific questions they can answer and cannot understand different issues or requests
 - Unnatural and robotic
+- Used in customer service because it allows the company to have more control over the chatbot's responses, but in my opinion does not add much value or information
+
+### Offensive chatbots - Tay by Microsoft
+![Screenshot of Tay twitter profile](https://s.abcnews.com/images/Technology/HT_twitter_TayandYou_ml_160325_16x9_1600.jpg)
+- Twitter chatbot designed to learn how to interact with humans on the platform but quickly started to output racist and offensive text
+- When the training data is not appropriately filtered, the chatbot will have biases and will likely produce harmful responses
+
+### Inefficient chatbots - Poncho
+![Screenshots of Poncho chatbot's mistakes](https://d2ymzkn1ailq93.cloudfront.net/wp-content/uploads/2016/06/poncho-chatbot-snapmunk-gizmodo.jpg)
+
+- Does not understand prpoperly the user's request
+- Responds with inaccurate or wrong information
