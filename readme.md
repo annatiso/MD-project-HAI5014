@@ -24,7 +24,7 @@ A chatbot is a **digital agent** that can interact with a user through **natural
 >
 > — Christie Pitts (Verizon Ventures)
 
-You can have a look at this YouTube video for further information about chatbots: [What is a chatbot? Types of chatbots & how they work](https://www.youtube.com/watch?v=mSY6JrJZ4aw&ab_channel=Zendesk)
+You can have a look at this YouTube video for further information about chatbots: [What is a Chatbot?](https://www.youtube.com/watch?v=o9-ObGgfpEk&ab_channel=IBMTechnology)
 
 ## What are the features of a good chatbot?
 
@@ -40,7 +40,7 @@ These qualities are usually achieved through **artificial intelligence**, in par
 
 ## Examples of good chatbots
 
-### Natural-sounding chatbots - Chat GPT
+### Natural-sounding chatbots - [Chat GPT](https://chatgpt.com/)
 
 ![Screenshot of Chat GPT](images/ChatGPT.png)
 
@@ -48,7 +48,7 @@ These qualities are usually achieved through **artificial intelligence**, in par
 - Allows the user to personalize the chat by specifying the preferred tone and providing any information that Chat GPT should remember.
 - Fluent in multiple languages and sounds natural.
 
-### Secure chatbots - Claude
+### Secure chatbots - [Claude](https://claude.ai/new)
 
 ![Screenshot of Claude](images/Claude.png)
 
@@ -58,14 +58,14 @@ These qualities are usually achieved through **artificial intelligence**, in par
 
 ## Examples of bad chatbots
 
-### Offensive chatbots - Tay by Microsoft
+### Offensive chatbots - [Tay by Microsoft](https://en.wikipedia.org/wiki/Tay_(chatbot))
 
 ![Screenshot of Tay Twitter profile](https://s.abcnews.com/images/Technology/HT_twitter_TayandYou_ml_160325_16x9_1600.jpg)
 
 - Twitter chatbot designed to learn how to interact with humans on the platform but quickly started to output racist and offensive text.
 - When the training data is not appropriately filtered, the chatbot will have biases and will likely produce harmful responses.
 
-### Frustrating chatbots - Poncho
+### Frustrating chatbots - [Poncho](https://github.com/jrnnynrlson/poncho)
 
 ![Screenshots of Poncho chatbot's mistakes](https://d2ymzkn1ailq93.cloudfront.net/wp-content/uploads/2016/06/poncho-chatbot-snapmunk-gizmodo.jpg)
 
@@ -75,7 +75,20 @@ These qualities are usually achieved through **artificial intelligence**, in par
 
 ## References
 
+Articles:
+
 - [Wikipedia - Chatbots](https://en.wikipedia.org/wiki/Chatbot)
 - [The best AI chatbots of 2025](https://www.zdnet.com/article/best-ai-chatbot/)
 - [12 famours AI disasters](https://www.cio.com/article/190888/5-famous-analytics-and-ai-disasters.html)
-- [What is a chatbot? Types of chatbots & how they work](https://www.youtube.com/watch?v=mSY6JrJZ4aw&ab_channel=Zendesk)
+- [Top 10 chatbot fais and how to avoid them](https://www.comm100.com/blog/top-10-chatbot-fails-and-how-to-avoid-them.html)
+- [Wikipedia - Tay (chatbot)](https://en.wikipedia.org/wiki/Tay_(chatbot))
+
+Videos:
+
+- [What is a Chatbot?](https://www.youtube.com/watch?v=o9-ObGgfpEk&ab_channel=IBMTechnology)
+
+Chatbots:
+
+- [Chat GPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/new)
+- [Poncho](https://github.com/jrnnynrlson/poncho)
