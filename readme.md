@@ -7,7 +7,7 @@
 1. [Introduction](#introduction)
 2. [What are the features of a good chatbot?](#what-are-the-features-of-a-good-chatbot)
 3. [Examples of good chatbots](#examples-of-good-chatbots)
-    - [Natural-sounding chatbot - Chat GPT](#natural-sounding-chatbot---chat-gpt)
+    - [Natural-sounding chatbots - Chat GPT](#natural-sounding-chatbots---chat-gpt)
     - [Secure chatbots - Claude](#secure-chatbots---claude)
 4. [Examples of bad chatbots](#examples-of-bad-chatbots)
     - [Offensive chatbots - Tay by Microsoft](#offensive-chatbots---tay-by-microsoft)
@@ -40,7 +40,7 @@ These qualities are usually achieved through **artificial intelligence**, in par
 
 ## Examples of good chatbots
 
-### Natural-sounding chatbot - Chat GPT
+### Natural-sounding chatbots - Chat GPT
 
 ![Screenshot of Chat GPT](images/ChatGPT.png)
 
