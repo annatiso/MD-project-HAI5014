@@ -7,12 +7,11 @@
 1. [Introduction](#introduction)
 2. [What are the features of a good chatbot?](#what-are-the-features-of-a-good-chatbot)
 3. [Examples of good chatbots](#examples-of-good-chatbots)
-    - [Chat GPT](#chat-gpt)
-    - [Claude](#claude)
+    - [Natural-sounding chatbot - Chat GPT](#natural-sounding-chatbot---chat-gpt)
+    - [Secure chatbots - Claude](#secure-chatbots---claude)
 4. [Examples of bad chatbots](#examples-of-bad-chatbots)
-    - [Scripted chatbots](#scripted-chatbots)
     - [Offensive chatbots - Tay by Microsoft](#offensive-chatbots---tay-by-microsoft)
-    - [Inefficient chatbots - Poncho](#inefficient-chatbots---poncho)
+    - [Frustrating chatbots - Poncho](#frustrating-chatbots---poncho)
 5. [References](#references)
 
 ## Introduction
