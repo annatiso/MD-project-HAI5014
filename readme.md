@@ -40,7 +40,7 @@ These qualities are usually achieved through **artificial intelligence**, in par
 
 ## Examples of good chatbots
 
-### Natural-sounding chatbots - [Chat GPT](https://chatgpt.com/)
+### Natural-sounding example - [Chat GPT](https://chatgpt.com/)
 
 ![Screenshot of Chat GPT](images/ChatGPT.png)
 
@@ -48,13 +48,28 @@ These qualities are usually achieved through **artificial intelligence**, in par
 - Allows the user to personalize the chat by specifying the preferred tone and providing any information that Chat GPT should remember.
 - Fluent in multiple languages and sounds natural.
 
-### Secure chatbots - [Claude](https://claude.ai/new)
+### Secure example - [Claude](https://claude.ai/new)
 
 ![Screenshot of Claude](images/Claude.png)
 
 - Focuses on user's security and privacy.
 - Monitors its own behavior to avoid harmful and dangerous responses.
 - Provides human-like responses and understands complex user prompts.
+
+### Real-time information search example - [Perplexity](https://www.perplexity.ai/)
+
+![Perplexity screenshot](images/Perplexity.png)
+
+- Enhanced deep research feature with access to real-time information.
+- High accuracy in the responses and it cites the sources so the user can double check.
+
+### Language-specific example - [PizzaGPT](https://www.pizzagpt.it/)
+
+![Screenshot of PizzaGPT](images/PizzaGPT.png)
+
+- When ChatGPT was banned in Italy due to privacy concerns, this chatbot was created. It avoids storing user data and thus complies with the Italian law.
+- Based on GPT 3.5, allows a smooth and natural conversation flow in different languages, including Italian.
+- Created a sense of identity for Italian users, which allowed it to remain popular for a while even after ChatGPT was reintroduced in Italy.
 
 ## What makes a chatbot bad?
 
@@ -64,20 +79,20 @@ A *bad* chatbot is a chatbot that presents one or more of the following characte
 2. **Rigid and unnatural conversation**: It lacks adaptability to the user's style and tone, sounds robotic and unnatural, and makes the conversation awkward and uncomfortable, instead of smooth and engaging.
 3. **Frustrating**: It does not understand user input well and provides answers that are irrelevant or unrelated to the user's requests, sometimes sounding even nonsensical.
 4. **No added value**: Provides shallow or obvious information, which is not helpful to the user.
-5. **Offensive behavior**: It shows 
+5. **Offensive behavior**: It produces offensive or harmful responses, resulting in AI misuse and potentially dangerous content.
 6. **Short memory**: Does not remember previous questions and answers, leading to repetitions and contradictions in the conversation.
-7. **Privacy issues**: It does not handle sensitive data properly, breaching user trust. 
+7. **Privacy issues**: It does not handle sensitive data properly, breaching user trust and regulations. 
 
 ## Examples of bad chatbots
 
-### Offensive chatbots - [Tay by Microsoft](https://en.wikipedia.org/wiki/Tay_(chatbot))
+### Offensive example - [Tay by Microsoft](https://en.wikipedia.org/wiki/Tay_(chatbot))
 
 ![Screenshot of Tay Twitter profile](https://s.abcnews.com/images/Technology/HT_twitter_TayandYou_ml_160325_16x9_1600.jpg)
 
 - Twitter chatbot designed to learn how to interact with humans on the platform but quickly started to output racist and offensive text.
 - When the training data is not appropriately filtered, the chatbot will have biases and will likely produce harmful responses.
 
-### Frustrating chatbots - [Poncho](https://github.com/jrnnynrlson/poncho)
+### Frustrating example - [Poncho](https://github.com/jrnnynrlson/poncho)
 
 ![Screenshots of Poncho chatbot's mistakes](https://d2ymzkn1ailq93.cloudfront.net/wp-content/uploads/2016/06/poncho-chatbot-snapmunk-gizmodo.jpg)
 
@@ -85,11 +100,13 @@ A *bad* chatbot is a chatbot that presents one or more of the following characte
 - Responds with inaccurate or wrong information.
 - Does not bring much value or new information to the user and causes frustration due to the difficult interaction.
 
-### Non-conversational chatbots - [Domino's Customer Support Bot](https://biz.dominos.com/assets/apps/chat-bot/cc-bot.html)
+### Non-conversational example - [TK Assistant](https://www.turkishairlines.com/en-it/any-questions/get-in-touch/)
+
+![Screenshot of Turkish Airlines assistant's example chat](images/TKAssistant.png)
 
 - Structured as a menu-based chatbot, it does not allow the user to type input and it barely feels as a conversation.
 - Does not add much value as it could have been a normal webpage instead of a chatbot, since the user needs to choose from a predefined menu of questions and answers.
-- Feels limiting and frustrating for the user.
+- Can feel limiting and frustrating for the user.
 
 ## References
 
@@ -100,6 +117,7 @@ Articles:
 - [12 famours AI disasters](https://www.cio.com/article/190888/5-famous-analytics-and-ai-disasters.html)
 - [Top 10 chatbot fais and how to avoid them](https://www.comm100.com/blog/top-10-chatbot-fails-and-how-to-avoid-them.html)
 - [Wikipedia - Tay (chatbot)](https://en.wikipedia.org/wiki/Tay_(chatbot))
+- [PizzaGPT takes over Italy](https://www.toolify.ai/gpts/pizzagpt-takes-over-italy-the-viral-rise-of-chatgpts-successor-138641)
 
 Videos:
 
@@ -109,4 +127,7 @@ Chatbots:
 
 - [Chat GPT](https://chatgpt.com/)
 - [Claude](https://claude.ai/new)
+- [PizzaGPT](https://www.pizzagpt.it/)
+- [Perplexity](https://www.perplexity.ai/)
 - [Poncho](https://github.com/jrnnynrlson/poncho)
+- [TK Assistant](https://www.turkishairlines.com/en-it/any-questions/get-in-touch/)
