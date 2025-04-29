@@ -56,6 +56,18 @@ These qualities are usually achieved through **artificial intelligence**, in par
 - Monitors its own behavior to avoid harmful and dangerous responses.
 - Provides human-like responses and understands complex user prompts.
 
+## What makes a chatbot bad?
+
+A *bad* chatbot is a chatbot that presents one or more of the following characteristics:
+
+1. **Unreliability**: It is not transparent about its capability and provides wrong or inaccurate information, misleading the users.
+2. **Rigid and unnatural conversation**: It lacks adaptability to the user's style and tone, sounds robotic and unnatural, and makes the conversation awkward and uncomfortable, instead of smooth and engaging.
+3. **Frustrating**: It does not understand user input well and provides answers that are irrelevant or unrelated to the user's requests, sometimes sounding even nonsensical.
+4. **No added value**: Provides shallow or obvious information, which is not helpful to the user.
+5. **Offensive behavior**: It shows 
+6. **Short memory**: Does not remember previous questions and answers, leading to repetitions and contradictions in the conversation.
+7. **Privacy issues**: It does not handle sensitive data properly, breaching user trust. 
+
 ## Examples of bad chatbots
 
 ### Offensive chatbots - [Tay by Microsoft](https://en.wikipedia.org/wiki/Tay_(chatbot))
@@ -72,6 +84,12 @@ These qualities are usually achieved through **artificial intelligence**, in par
 - Only allow the user to ask specific questions and often does not understand properly the user's request, sounding unnatural and robotic.
 - Responds with inaccurate or wrong information.
 - Does not bring much value or new information to the user and causes frustration due to the difficult interaction.
+
+### Non-conversational chatbots - [Domino's Customer Support Bot](https://biz.dominos.com/assets/apps/chat-bot/cc-bot.html)
+
+- Structured as a menu-based chatbot, it does not allow the user to type input and it barely feels as a conversation.
+- Does not add much value as it could have been a normal webpage instead of a chatbot, since the user needs to choose from a predefined menu of questions and answers.
+- Feels limiting and frustrating for the user.
 
 ## References
 
