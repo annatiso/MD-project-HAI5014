@@ -34,11 +34,11 @@ You can watch this YouTube video for further information about chatbots: [What i
 
 According to the [resources](#references) I read, a *good* chatbot should exhibit most of these characteristics:
 
-1. **Memory**: It should remember information provided previously in the chat to respond in a consistent and coherent manner.
-2. **Security**: It should handle user information responsibly to preserve the customer's privacy.
-3. **Flexibility**: It should be able to adapt its style and responses based on the user's prompt and needs.
-4. **Conversational ability**: It should output human-like responses that sound natural, smooth, and engaging.
-5. **Accuracy**: The responses of the chatbot should be precise and correct, without hallucinations or false information.
+1. 🧠 **Memory**: It should remember information provided previously in the chat to respond in a consistent and coherent manner.
+2. 🔐 **Security**: It should handle user information responsibly to preserve the customer's privacy.
+3. 💫 **Flexibility**: It should be able to adapt its style and responses based on the user's prompt and needs.
+4. 💬 **Conversational ability**: It should output human-like responses that sound natural, smooth, and engaging.
+5. ✅ **Accuracy**: The responses of the chatbot should be precise and correct, without hallucinations or false information.
 
 These qualities are usually achieved through **artificial intelligence**, in particular large language models.
 
@@ -79,13 +79,13 @@ These qualities are usually achieved through **artificial intelligence**, in par
 
 A chatbot is *bad* because it exhibits one or more of the following characteristics:
 
-1. **Unreliability**: It is not transparent about its capabilities and provides wrong or inaccurate information, misleading the users.
-2. **Rigid and unnatural conversation**: It lacks adaptability to the user's style and tone, sounds robotic and unnatural, and makes the conversation awkward and uncomfortable instead of smooth and engaging.
-3. **Frustrating**: It does not understand user input well and provides answers that are irrelevant or unrelated to the user's requests, sometimes sounding nonsensical.
-4. **No added value**: Provides shallow or obvious information, which is not helpful to the user.
-5. **Offensive behavior**: It produces offensive or harmful responses, resulting in AI misuse and potentially dangerous content.
-6. **Short memory**: Does not remember previous questions and answers, leading to repetitions and contradictions in the conversation.
-7. **Privacy issues**: It does not handle sensitive data properly, breaching user trust and regulations.
+1. ❌ **Unreliability**: It is not transparent about its capabilities and provides wrong or inaccurate information, misleading the users.
+2. 🤖 **Rigid and unnatural conversation**: It lacks adaptability to the user's style and tone, sounds robotic and unnatural, and makes the conversation awkward and uncomfortable instead of smooth and engaging.
+3. 😣 **Frustrating**: It does not understand user input well and provides answers that are irrelevant or unrelated to the user's requests, sometimes sounding nonsensical.
+4. 📉 **No added value**: Provides shallow or obvious information, which is not helpful to the user.
+5. 🤬 **Offensive behavior**: It produces offensive or harmful responses, resulting in AI misuse and potentially dangerous content.
+6. ❓ **Short memory**: Does not remember previous questions and answers, leading to repetitions and contradictions in the conversation.
+7. ⚠️ **Privacy issues**: It does not handle sensitive data properly, breaching user trust and regulations.
 
 ## Examples of bad chatbots
 
