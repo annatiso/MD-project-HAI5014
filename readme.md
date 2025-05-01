@@ -106,7 +106,7 @@ A chatbot is *bad* because it exhibits one or more of the following characterist
 
 ### Non-conversational example - [TK Assistant](https://www.turkishairlines.com/en-it/any-questions/get-in-touch/)
 
-<img src="images/TKAssistant.png" alt="Screenshot of Turkish Airlines assistant's example chat" width="250">
+<img src="images/TKAssistant.png" alt="Screenshot of Turkish Airlines assistant's example chat" width="350">
 
 - Structured as a menu-based chatbot, it does not allow the user to type input and it barely feels like a conversation.
 - Does not add much value as the user still needs to navigate the options autonomously, and the chatbot is not providing additional help compared to a normal webpage.
